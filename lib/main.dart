@@ -11,12 +11,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: 'Animated Physical Model Demo',
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
       theme: ThemeData(
+       
         primarySwatch: Colors.blue,
       ),
-      home: const SplashScreen(),
+      home: const SplashScreen()
     );
   }
 }

@@ -22,7 +22,7 @@ A new flutter app for demonstrating Animated physical demo.
 
 <table>
   <tr>
-    <td align="center" valign="center">Home Screen before button click</td>
+     <td align="center" valign="center">Home Screen before button click</td>
      <td align="center" valign="center">Home Screen after button click</td>
   </tr>
   <tr>
